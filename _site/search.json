@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "owais_site!",
+    "section": "",
+    "text": "My name’s Owais and I’m a 3rd year CS Major here at the University of Toronto. Head over to the About Me page for more!\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Curriculum Vitae\n\nEducation\nUniversity of Toronto Toronto, ON\nHBSc, Computer Science Sep. 2021 – Jun. 2026\n\nTechnical Skills\nLanguages: Python, Java, C++, HTML/CSS, JavaScript/Typescript, RISC-V\nFrameworks: React, Tailwind, Express.js, Node.js, Flask\nTechnologies: AWS S3, Google Cloud Platform, Git, MongoDB, VS Code\nML Libraries: Tensorflow, Pandas, Pytorch, Transformers, Numpy, Matplotlib, Streamlit\n\nProfessional Experience\nZynga May 2024 - May 2025\nSoftware Engineer Intern Toronto, Ontario, Canada\n• On the Advertising Technology team.\n\nMLDSAI Inc. May 2023 - August 2023\nMachine Learning Engineer Intern Toronto, Ontario, Canada\nGeneral focus on AI-First Desktop Process Automation using Transformers.\n• Created a tool to extract structured information from text based documents using DocQA models from\nHuggingFace such as LayoutLM.\n• Created testing, and prompt,completion pair generation pipelines for fine-tuning with OpenAI API\nintegration.\n• Utilized HuggingFace API for inference and fine-tuning on open source Large Language Models. Notable ones\ninclude GPT-3.5, GPT-4, LLama-2-70B and MPT-7B.\n• Explored and implemented existing solutions to reduce LLM latency during inference, such as prompt\ncompression.\n• Implemented skeleton LLM API infrastructure.\nTechnology and Skills: HuggingFace API, Large Language Models (LLMs), Fine Tuning and Testing.\nRelevant Coursework\nNeural Networks and Deep Learning, Intro to Machine Learning, Algorithm Design, Software\nDesign\n\nProjects\nInteractive Melanoma Classifier\n∗ Wrote, trained and deployed an interactive melanoma classifier from scratch using a Convolutional\nNeural Network (CNN) model architecture.\n∗ Achieved 83% testing accuracy on the Society for Imaging Informatics in Medicine (SIIM) melanoma\ndataset after careful image preprocessing and model hyper-parameter tuning.\n∗ Developed user-friendly web interface and hosted using Streamlit.\n∗ Model Architecture code can be found here.\n∗ Technologies Used: Pytorch, Streamlit\n\nMazeGame + LoginRegistration\n∗ Implemented a complete Login and Registration system with data persistence for a 2-D Maze Game in Java.\nAdhered to Clean Architecture principles, as well as used Open/Closed, Interface Segregation, Single\nResponsibility and Dependency Inversion Principles from SOLID. Wrote holistic unit tests and\nminimized code smells."
+  }
+]

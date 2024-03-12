@@ -1,0 +1,59 @@
+---
+title: "About Me"
+---
+
+**Curriculum Vitae**
+
+\
+**Education**\
+University of Toronto Toronto, ON\
+HBSc, Computer Science Sep. 2021 – Jun. 2026
+
+\
+**Technical Skills**\
+Languages: Python, Java, C++, HTML/CSS, JavaScript/Typescript, RISC-V\
+Frameworks: React, Tailwind, Express.js, Node.js, Flask\
+Technologies: AWS S3, Google Cloud Platform, Git, MongoDB, VS Code\
+ML Libraries: Tensorflow, Pandas, Pytorch, Transformers, Numpy, Matplotlib, Streamlit
+
+\
+**Professional Experience**\
+**Zynga** May 2024 - May 2025\
+**Software Engineer Intern** Toronto, Ontario, Canada\
+• On the Advertising Technology team.
+
+\
+**MLDSAI Inc.** May 2023 - August 2023\
+**Machine Learning Engineer Intern** Toronto, Ontario, Canada\
+General focus on AI-First Desktop Process Automation using Transformers.\
+• Created a tool to extract structured information from text based documents using DocQA models from\
+HuggingFace such as LayoutLM.\
+• Created testing, and prompt,completion pair generation pipelines for fine-tuning with OpenAI API\
+integration.\
+• Utilized HuggingFace API for inference and fine-tuning on open source Large Language Models. Notable ones\
+include GPT-3.5, GPT-4, LLama-2-70B and MPT-7B.\
+• Explored and implemented existing solutions to reduce LLM latency during inference, such as prompt\
+compression.\
+• Implemented skeleton LLM API infrastructure.\
+Technology and Skills: HuggingFace API, Large Language Models (LLMs), Fine Tuning and Testing.\
+Relevant Coursework\
+Neural Networks and Deep Learning, Intro to Machine Learning, Algorithm Design, Software\
+Design
+
+\
+**Projects**\
+**Interactive Melanoma Classifier** \
+∗ Wrote, trained and deployed an interactive melanoma classifier from scratch using a Convolutional\
+Neural Network (CNN) model architecture.\
+∗ Achieved 83% testing accuracy on the Society for Imaging Informatics in Medicine (SIIM) melanoma\
+dataset after careful image preprocessing and model hyper-parameter tuning.\
+∗ Developed user-friendly web interface and hosted using Streamlit.\
+∗ Model Architecture code can be found here.\
+∗ Technologies Used: Pytorch, Streamlit
+
+\
+**MazeGame + LoginRegistration**\
+∗ Implemented a complete Login and Registration system with data persistence for a 2-D Maze Game in Java.\
+Adhered to Clean Architecture principles, as well as used Open/Closed, Interface Segregation, Single\
+Responsibility and Dependency Inversion Principles from SOLID. Wrote holistic unit tests and\
+minimized code smells.
