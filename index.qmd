@@ -1,9 +1,5 @@
 ---
-title: "owais_site!"
+title: "Owais Zahid's Quarto Site"
 ---
 
-My name's Owais and I'm a 3rd year CS Major here at the University of Toronto. Head over to the About Me page for more! f
-
-```{r}
-1 + 1
-```
+My name's Owais and I'm a 3rd year CS Major here at the University of Toronto. Head over to the About Me page for more!
